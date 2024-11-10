@@ -1,8 +1,19 @@
-# React + Vite
+# Manage Your CheckList
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+## Live project link : [checklist](https://checkbox-task-manager.netlify.app/)
 
-Currently, two official plugins are available:
+### Tech stack:
+- React
+- React state management using context API
+- Tailwind CSS
+- Vite
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+### Features:
+- Add task
+- Edit task
+- Delete task
+- List task
+- Complete task
+  
+![image](https://github.com/user-attachments/assets/94a0f4e2-e39c-4d97-b000-7ecdb134aa55)
+
